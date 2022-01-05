@@ -3,7 +3,7 @@
 - 🏨 Currently a Mobile Application Developer at SamuilIT
 - 💬 Touch Typing Speed -----
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
 
 <br />
@@ -27,6 +27,6 @@
 
 ### Github Stats:
 
-![Musfick’s github stats](https://github-readme-stats.vercel.app/api?username=neelniloy&show_icons=true&theme=dark)
+![Niloy’s github stats](https://github-readme-stats.vercel.app/api?username=neelniloy&show_icons=true&theme=dark)
 
 <br/>
