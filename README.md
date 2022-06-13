@@ -1,6 +1,6 @@
 ### Hello, This is Niloy Kumar Sarker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🏨 Currently a Mobile Application Developer at SamuilIT
+- 🏨 Currently a Mobile Application Developer
 - 💬 Touch Typing Speed -----
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
