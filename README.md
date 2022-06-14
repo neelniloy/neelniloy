@@ -30,3 +30,15 @@
 ![Niloy’s github stats](https://github-readme-stats.vercel.app/api?username=neelniloy&show_icons=true&theme=dark)
 
 <br/>
+
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelniloy&show_icons=true&locale=en&layout=compact" alt="neelniloy" /></p>
+ </div>
+
+<div align="center">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=neelniloy&show_icons=true&locale=en" alt="neelniloy" /></p>
+ </div>
+
+<div align="center"> 
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=neelniloy&" alt="neelniloy" /></p>
+ </div>
