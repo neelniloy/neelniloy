@@ -11,25 +11,25 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/niloysarker/">
-  <img align="left" alt="Nitin Prakash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="neelniloy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://facebook.com/N33LNILOY">
-  <img align="left" alt="Nitin Prakash | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="neelniloy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/_n_i_l_o_y">
-  <img align="left" alt="Nitin Prakash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="neelniloy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
+
+ 
+```tsx
+
+print("You will face many defeats in life, but never let yourself be defeated.")
+
+```
+
 <br />
-
----
-
-### Github Stats:
-
-![Niloy’s github stats](https://github-readme-stats.vercel.app/api?username=neelniloy&show_icons=true&theme=dark)
-
-<br/>
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelniloy&show_icons=true&locale=en&layout=compact" alt="neelniloy" /></p>
