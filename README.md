@@ -22,7 +22,6 @@
 
 <br />
 <br />
-<br />
 
  
 ```tsx
@@ -31,6 +30,7 @@ print("You will face many defeats in life, but never let yourself be defeated.")
 
 ```
 
+<br />
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelniloy&show_icons=true&locale=en&layout=compact" alt="neelniloy" /></p>
