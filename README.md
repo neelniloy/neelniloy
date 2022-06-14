@@ -1,4 +1,4 @@
-### Hello, This is Niloy Kumar Sarker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, This is Niloy Kumar Sarker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="80px">
 
 - 🏨 Currently a Mobile Application Developer
 - 💬 Touch Typing Speed -----
