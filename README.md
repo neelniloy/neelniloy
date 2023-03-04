@@ -11,13 +11,13 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/niloysarker/">
-  <img align="left" alt="neelniloy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="neelniloy | LinkedIn" width="22px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
 </a>
-<a href="https://facebook.com/N33LNILOY">
-  <img align="left" alt="neelniloy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://facebook.com/neel.niloya">
+  <img align="left" alt="neelniloy | Medium" width="22px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />
 </a>
-<a href="https://www.instagram.com/_n_i_l_o_y">
-  <img align="left" alt="neelniloy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/niloy_kumar_sarker">
+  <img align="left" alt="niloy_kumar_sarker | Instagram" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 
 <br />
