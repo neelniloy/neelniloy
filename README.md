@@ -3,7 +3,7 @@
 - 🏨 Currently working at Bdjobs.com Ltd. as a Mobile Application Developer
 - 💬 Touch Typing Speed -----
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
 
 <br />
