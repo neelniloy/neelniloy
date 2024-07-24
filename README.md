@@ -1,6 +1,6 @@
 ### Hello, This is Niloy Kumar Sarker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="80px">
 
-- 🏨 Currently working at Bdjobs.com Ltd. as a Mobile Application Developer
+- 🏨 Currently working at Futuredesh Ltd. as a Software Engineer
 - 💬 Touch Typing Speed -----
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
