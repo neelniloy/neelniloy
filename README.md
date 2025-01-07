@@ -3,7 +3,7 @@
 - 🏨 Currently working at Futuredesh Ltd. as a Software Engineer
 - 💬 Touch Typing Speed -----
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
 
 <br />
