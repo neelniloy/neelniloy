@@ -30,16 +30,35 @@ print("You will face many defeats in life, but never let yourself be defeated.")
 
 ```
 
-<br />
+<br/>
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelniloy&show_icons=true&locale=en&layout=compact" alt="neelniloy" /></p>
- </div>
+<p align="center" width="100%">
+  <a href="https://github.com/neelniloy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
-<div align="center">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=neelniloy&show_icons=true&locale=en" alt="neelniloy" /></p>
- </div>
+<br/>
 
-<div align="center"> 
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=neelniloy&" alt="neelniloy" /></p>
- </div>
+<p align="center" width="100%">
+  <a href="https://github.com/neelniloy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelniloy&theme=radical&border=7F3FBF&background=0D1117" alt="Niloy Sarker GitHub streak"/>
+  </a>
+</p>
+
+<p align="center" width="100%">
+  <a href="https://github.com/neelniloy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelniloy&theme=radical" alt="Niloy Sarker's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/neelniloy"><img alt="Niloy Sarker's Github Stats" src="https://github-readme-stats-mu-one-52.vercel.app/api?username=neelniloy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/neelniloy"><img alt="Niloy Sarker's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=neelniloy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Niloy Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=neelniloy&custom_title=Niloy%20Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<a align="center" width="100%" href="https://komarev.com/ghpvc/?username=neelniloy">
+  <img align="center" src="https://komarev.com/ghpvc/?username=neelniloy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
