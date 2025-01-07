@@ -40,7 +40,7 @@ print("You will face many defeats in life, but never let yourself be defeated.")
 
 <p align="center" width="100%">
   <a href="https://github.com/neelniloy">
-    <img src="https://streak-stats.demolab.com/?user=neelniloy&theme=radical&border=7F3FBF&background=0D1117" alt="Niloy Sarker GitHub Streak"/>
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" alt="Niloy Sarker GitHub Streak"/>
   </a>
 </p>
 
