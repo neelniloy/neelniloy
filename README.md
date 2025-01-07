@@ -39,9 +39,7 @@ print("You will face many defeats in life, but never let yourself be defeated.")
 <br/>
 
 <p align="center" width="100%">
-  <a href="https://github.com/neelniloy">
-    <img src="https://streak-stats.demolab.com/?user=neelniloy" alt="Niloy Sarker GitHub Streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=neelniloy&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center" width="100%">
