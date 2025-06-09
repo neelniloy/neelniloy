@@ -16,8 +16,8 @@
 <a href="https://facebook.com/neel.niloya">
   <img align="left" alt="neelniloy | Medium" width="22px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />
 </a>
-<a href="https://www.instagram.com/niloy_kumar_sarker">
-  <img align="left" alt="niloy_kumar_sarker | Instagram" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
+<a href="https://www.instagram.com/niloy_things">
+  <img align="left" alt="niloy_things | Instagram" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 
 <br />
