@@ -59,6 +59,21 @@ print("You will face many defeats in life, but never let yourself be defeated.")
 
 ![Niloy Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=neelniloy&custom_title=Niloy%20Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <a align="center" width="100%" href="https://komarev.com/ghpvc/?username=neelniloy">
   <img align="center" src="https://komarev.com/ghpvc/?username=neelniloy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
